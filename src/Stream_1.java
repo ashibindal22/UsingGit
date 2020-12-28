@@ -24,7 +24,7 @@ public class Stream_1 {
 		
 		
 		IntStream.range(1, 10).forEach(System.out::print);
-		
+		System.out.println("Made Changes From Project to New Branch");
 		}
 	
 	}	
