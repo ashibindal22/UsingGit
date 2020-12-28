@@ -26,6 +26,7 @@ public class Stream_1 {
 		IntStream.range(1, 10).forEach(System.out::print);
 		System.out.println("Made Changes From Project to New Branch");
 		System.out.println("Made 2nd Change from Project to New Test Branch");
+		System.out.println("Added changes to master");
 		}
 	
 	}	
